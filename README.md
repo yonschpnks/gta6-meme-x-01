@@ -1,5 +1,9 @@
 # gta6-meme-x-01 — "WANTED ★★★★★"
 
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/yonschpnks/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard)
+[![reward](https://make.fun/badge/gta6-meme-x-01/yonschpnks/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01)
+
 Entri untuk bounty make.fun **gta6-meme-x-01** ("Post a GTA 6 meme on X").
 Pot $500, top 50 dibayar. Deadline: Senin 23 Nov 2026, 21:00 WIB.
 
